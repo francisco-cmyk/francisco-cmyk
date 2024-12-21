@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Francisco
 
-🌟 **Full Stack Developer** | 🚀 **Programming language enthusiast** | 🎨 **UI/UX Advocate**
+🌟 **Full Stack Developer** | 🚀 **Programming language enthusiast** | 🎨 **UI/UX connoisseur**
 
 ---
 
