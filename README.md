@@ -14,3 +14,4 @@
 ## 🌍 Connect With Me
 - [LinkedIn](linkedin.com/in/fveranicola/)
 - [Portfolio](https://francisco-vera.netlify.app/)
+- Or reach me at: fveranicola@gmail.com
